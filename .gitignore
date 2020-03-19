@@ -24,3 +24,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.idea/
+juc-and-jvm.iml
+src/main/java/com/lizhi/jvm/
+src/main/resources/
+src/test/
+target/generated-sources/
