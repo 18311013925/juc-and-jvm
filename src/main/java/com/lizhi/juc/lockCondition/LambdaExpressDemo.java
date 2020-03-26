@@ -1,4 +1,4 @@
-package com.lizhi.juc;
+package com.lizhi.juc.lockCondition;
 
 /**
  * 1、函数式编程
