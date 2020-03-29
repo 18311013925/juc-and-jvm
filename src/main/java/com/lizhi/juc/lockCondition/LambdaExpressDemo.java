@@ -1,4 +1,4 @@
-package com.lizhi.juc;
+package com.lizhi.juc.lockCondition;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
