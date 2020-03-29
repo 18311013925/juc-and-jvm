@@ -1,5 +1,9 @@
 package com.lizhi.juc;
 
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
+
 /**
  * 1、函数式编程
  * 口诀：拷贝小括号 ， 写死右箭头， 落地大括号
@@ -24,6 +28,7 @@ public class LambdaExpressDemo {
         for (int i = 0; i < 20; i++) {
             new Thread("threadName").start();
         }
+        Map map = new LinkedHashMap<>();
 
     }
 
